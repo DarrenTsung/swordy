@@ -1,0 +1,3 @@
+[submodule "codename-SWORDY/Assets/dt-unity-library"]
+	path = codename-SWORDY/Assets/dt-unity-library
+	url = https://github.com/DarrenTsung/dt-unity-library.git
